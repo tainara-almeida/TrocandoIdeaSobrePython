@@ -1,0 +1,1 @@
+## Bora falar de booleanos, ou bolus chame como quiser hehehe
