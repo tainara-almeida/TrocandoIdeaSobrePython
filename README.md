@@ -5,7 +5,7 @@ Aqui iremos falar um pouquinho sobre Python, para iniciantes, caso você queira 
 Caso não saiba fazer um fork, de uma olhada nesse link.
 
 Esse será o conteudo apresentado:
-* Variáveis
+* Variável 
 * Número
 * String
 * Booleanos
@@ -16,3 +16,4 @@ Esse será o conteudo apresentado:
 * Laços While
 * Laços for
 * Função
+
